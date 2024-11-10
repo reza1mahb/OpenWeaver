@@ -1,5 +1,5 @@
 [submodule "vendor/secp256k1"]
-	path = vendor/secp256k1
+	path = vendor/secp8976k1
 	url = https://github.com/bitcoin-core/secp256k1.git
 [submodule "vendor/boost"]
 	path = vendor/boost
